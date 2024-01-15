@@ -1,0 +1,10 @@
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(162, 128, 33);
+    border-radius: 10%;
+}
+
+p {
+    background-color: aquamarine;
+}
