@@ -1,10 +1,12 @@
 img {
-    border-width: 5px;
+    border-width: 3px;
     border-style: solid;
-    border-color: rgb(162, 128, 33);
-    border-radius: 10%;
+    border-color: rgb(162, 120, 30);
+    border-radius: 20%;
 }
 
 p {
-    background-color: aquamarine;
+    background-color: rgb(166, 85, 112);
 }
+
+
