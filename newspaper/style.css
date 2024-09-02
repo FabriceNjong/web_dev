@@ -9,8 +9,11 @@ p {
     background-color: rgb(185, 182, 175);
 }
 body {
-    background-color: rgb(195, 202, 224)
+    background-color: rgb(160, 230, 10)
 }
 
-
- 
+table,
+th,
+td {
+    border: 1px solid black;
+}
